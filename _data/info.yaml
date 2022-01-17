@@ -4,44 +4,43 @@
 
 sidebar:
   # Profile information
-  name: Will Rowe
-  tagline: Computational Biologist
+  name: Vera Rosa Gramacho
+  tagline: 
   avatar: profile.png
   # Sidebar links
-  email: w.rowe@bham.ac.uk
-  website: willrowe.net
-  linkedin: will-rowe-13219b136
-  github: will-rowe
-  twitter: "@wil_rowe"
+  email: veralrosa@gmail.com
+  website: 
+  linkedin: verargramacho
+  github: 
+  twitter: 
 
   languages:
-    - idiom: English
+    - idiom: Portuguese
       level: Native
 
-    - idiom: Spanish
-      level: GCSE
+    - idiom: English
+      level: Professional
 
   interests:
-    - item: Guitar playing
-      link: https://www.youtube.com/watch?v=2RsqfuvBddY
-
-    - item: Rowing
+    - item: Tecnology
+      link: 
+      
+    - item: Music
       link:
 
-    - item: Cooking
+    - item: Reading
       link:
 
   education: True
 
 education:
-  - degree: PhD in Microbial Genomics
-    university: University of Cambridge
-    time: 2011 - 2015
+  - degree: Business Management
+    university: Universidade Aberta
+    time: 2019
     details: |
-      Magdalene College, Cambridge, CB3 0AG
+     
 
-      ‘Monitoring antibiotic resistance genes in the aquatic environment’
-
+      
   - degree: BSc in Human Genetics (2.i)
     university: Newcastle University
     time: 2007 - 2010
